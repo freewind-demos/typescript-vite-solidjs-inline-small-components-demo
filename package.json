@@ -3,7 +3,9 @@
     "start": "vite --open"
   },
   "dependencies": {
-    "ts-node": "10.3.0"
+    "solid-js": "^1.6.0",
+    "ts-node": "10.3.0",
+    "vite-plugin-solid": "^2.3.10"
   },
   "devDependencies": {
     "@types/node": "16.11.0",

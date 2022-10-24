@@ -1,3 +1,5 @@
-import './index.css';
+import { render } from 'solid-js/web';
+import {Hello} from './Hello';
 
-document.getElementById("main")!.innerText = "Hello!"
+
+render(() => <Hello />, document.body);
