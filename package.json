@@ -3,15 +3,15 @@
     "start": "vite --open"
   },
   "dependencies": {
-    "solid-js": "1.6.0",
-    "ts-node": "10.3.0",
-    "vite-plugin-solid": "2.3.10"
+    "solid-js": "1.8.17",
+    "ts-node": "10.9.2",
+    "vite-plugin-solid": "2.10.2"
   },
   "devDependencies": {
-    "@types/node": "16.11.0",
-    "@vitejs/plugin-react": "1.0.4",
-    "typescript": "5.3.3",
-    "vite": "2.6.7",
-    "vite-plugin-html-template": "1.0.6"
+    "@types/node": "20.12.12",
+    "@vitejs/plugin-react": "4.2.1",
+    "typescript": "5.4.5",
+    "vite": "5.2.11",
+    "vite-plugin-html-template": "1.2.2"
   }
 }
